@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains experiment that implements Bayesian Optimization (BO) techniques for Conditional Value-at-Risk (CVaR)-based portfolio optimization, inspired by the research paper "Bayesian Optimization for CVaR-based portfolio optimization" by Robert Millar and Jinglai Li ([arXiv:2503.17737v1]('https://www.arxiv.org/abs/2503.17737'), Accepted by GECCO 2025).
+This repository contains experiment that implements Bayesian Optimization (BO) techniques for Conditional Value-at-Risk (CVaR)-based portfolio optimization, inspired by the research paper "Bayesian Optimization for CVaR-based portfolio optimization" by Robert Millar and Jinglai Li ([arXiv]('https://www.arxiv.org/abs/2503.17737'), Accepted by GECCO 2025).
 The ipynb focuses on replicating and experimenting with the paper's proposed methods, including a baseline BO and the advanced **2S-ACW-EI (Two-Stage Active Constraint Weighted Expected Improvement)** algorithm. It uses real-world financial data from Indonesian stocks and Bitcoin to simulate portfolio allocation under risk constraints.
 
 ---
